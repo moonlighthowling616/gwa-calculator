@@ -4,5 +4,5 @@ A really simple GWA (General Weighted Average) Calculator made in Python. It all
 ## 📸**Screenshot/s**
 
 ## 🤔**Where to find the source code?**
-Go to **Simple Text-Based Events Manager > src > Main.java**. That's pretty much it
+It's on the **top**, a file named **GWA Calculator.py** obviously
 
